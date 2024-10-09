@@ -1,6 +1,7 @@
 Hi there 👋 I'm Juliusz Kowalewski, currently working as Full-Stack Developer at Fototransfer.
 
 ## About Me
+Experienced Full-Stack Developer with several years of experience in designing and implementing web solutions. My career is characterized by a continuous drive for growth and adaptation to new technologies, enabling me to create innovative and efficient solutions. Passion for learning, flexibility in approaching technologies, and the ability to constantly improve my skills allow me to adapt to the ever-evolving IT industry.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript
@@ -11,8 +12,9 @@ Hi there 👋 I'm Juliusz Kowalewski, currently working as Full-Stack Developer 
 - **Tools & Platforms:** GitHub, Docker, AWS EC2, Github Action, gRPC, Apache Kafka (Pub/Sub), AWS SQS, RabbitMQ
 
 ## Key Projects 📚
-- **[OpenCommerce](https://github.com/Imunal/open-commerce):** Microservice based eCommerce B2C platform, that will be utilised by yself when its done
-- **[react-dpd-pickup-map](https://github.com/Imunal/react-dpd-pickup-map):** React components thats allows you to integrate and display DPD Pickup Map on your react base project.
+- **[OpenCommerce](https://github.com/Imunal/open-commerce):** A microservice-based eCommerce platform built with NestJS and gRPC for backend communication, and Remix for the frontend. The UI components are developed with react-aria for accessibility, while Storybook and Playwright are used for testing. The project aims for 80% test coverage, ensuring robustness and maintainability. The platform is still under development, with more features and details to be finalized.
+- **[Antigro SDK](https://github.com/Imunal/antigro-sdk):** Antigro SDK for Node.js simplifies integration with the Antigro Designer API, enabling developers to quickly and efficiently implement key functionalities in their applications. With built-in support for authentication via JWT and streamlined HTTP client services, this SDK provides an easy-to-use interface for interacting with the Antigro platform.
+- **[react-dpd-pickup-map](https://github.com/Imunal/react-dpd-pickup-map):** is a lightweight React component designed to seamlessly integrate the DPD Pickup Map into any React project. This component allows developers to quickly embed the DPD Pickup service, enabling users to select a DPD Pickup point directly within the application.
 
 ## I’m currently learning 🌱
 - Microservice pattern
