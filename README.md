@@ -13,7 +13,7 @@ Experienced Full-Stack Developer with several years of experience in designing a
 
 ## Key Projects 📚
 - **[OpenCommerce](https://github.com/Imunal/open-commerce):** A microservice-based eCommerce platform built with NestJS and gRPC for backend communication, and Remix for the frontend. The UI components are developed with react-aria for accessibility, while Storybook and Playwright are used for testing. The project aims for 80% test coverage, ensuring robustness and maintainability. The platform is still under development, with more features and details to be finalized.
-- **[Antigro SDK](https://github.com/Imunal/antigro-sdk):** Antigro SDK for Node.js simplifies integration with the Antigro Designer API, enabling developers to quickly and efficiently implement key functionalities in their applications. With built-in support for authentication via JWT and streamlined HTTP client services, this SDK provides an easy-to-use interface for interacting with the Antigro platform.
+- **[Antigro SDK](https://github.com/Imunal/antigro-sdk):** Antigro SDK for Node.js simplifies integration with the Antigro Designer API, enabling developers to quickly and efficiently implement key functionalities in their applications. With built-in support for authentication via JWT and streamlined HTTP client services.
 - **[react-dpd-pickup-map](https://github.com/Imunal/react-dpd-pickup-map):** is a lightweight React component designed to seamlessly integrate the DPD Pickup Map into any React project. This component allows developers to quickly embed the DPD Pickup service, enabling users to select a DPD Pickup point directly within the application.
 
 ## I’m currently learning 🌱
