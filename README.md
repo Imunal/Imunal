@@ -5,11 +5,11 @@ Experienced Full-Stack Developer with several years of experience in designing a
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Next.js, Node.js, Express.js, Nest.js. Adonis.js, Storybook, Hono
+- **Frameworks & Libraries:** React, Next.js (App Router, Server Actions), Node.js, Express.js, Nest.js. Adonis.js, Storybook, Hono, Redux, Redux Toolkit, React Query, SWR, Prisma, TypeORM, Knex.js, Zod
 - **UI Libraries:** Chakra UI, MUI, Radix UI, React Aria, Headless UI
 - **Databases:** SQL Server, MySQL, PostgreSQL
-- **Testing tools** Jest, Vitest, Playwright
-- **Tools & Platforms:** GitHub, Docker, AWS EC2, Github Action, gRPC, Apache Kafka (Pub/Sub), AWS SQS, RabbitMQ
+- **Testing tools** Jest, Vitest, Playwright, MSW.js
+- **Tools & Platforms:** GitHub, Docker, AWS EC2, Github Action, gRPC, Apache Kafka (Pub/Sub), AWS SQS, RabbitMQ, Nginx, Linux, Postman, Swagger (Open API), Cloudflare.
 
 ## Key Projects 📚
 - **[OpenCommerce](https://github.com/Imunal/open-commerce):** A microservice-based eCommerce platform built with NestJS and gRPC for backend communication, and Remix for the frontend. The UI components are developed with react-aria for accessibility, while Storybook and Playwright are used for testing. The project aims for 80% test coverage, ensuring robustness and maintainability. The platform is still under development, with more features and details to be finalized.
