@@ -1,4 +1,10 @@
-Hi there 👋 I'm Juliusz Kowalewski, currently working as Full-Stack Developer at Fototransfer.
+Hi👋 I'm Juliusz
+
+## Connect  📬
+- 🔗 [Personal website](https://kowalewsky.dev/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/juliusz-kowalewski-657856179/)
+
+<!-- Hi there 👋 I'm Juliusz Kowalewski, currently working as Full-Stack Developer at Fototransfer.
 
 ## About Me
 Experienced Full-Stack Developer with several years of experience in designing and implementing web solutions. My career is characterized by a continuous drive for growth and adaptation to new technologies, enabling me to create innovative and efficient solutions. Passion for learning, flexibility in approaching technologies, and the ability to constantly improve my skills allow me to adapt to the ever-evolving IT industry.
